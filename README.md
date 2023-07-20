@@ -2,7 +2,7 @@
 # Authors 
 - Paweł Chmolewski
 # Description of the project 
-Text here... 
+Scanning tunneling Microscope which is a tool, capable of imaging surfaces with atomic resolution in the air.
 # Science and tech used 
 Text & plots here... 
 # State of the art 
