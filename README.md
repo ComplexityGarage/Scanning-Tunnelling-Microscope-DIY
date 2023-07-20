@@ -1,7 +1,6 @@
 # Tunneling ...  (Title of the project)
 # Authors 
-- Author 1
-- Author 2
+- Paweł Chmolewski
 # Description of the project 
 Text here... 
 # Science and tech used 
