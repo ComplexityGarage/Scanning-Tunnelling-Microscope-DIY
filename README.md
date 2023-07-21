@@ -2,7 +2,12 @@
 # Authors 
 - Paweł Chmolewski
 # Description of the project 
-Scanning tunneling Microscope is a tool capable of imaging surfaces with atomic resolution in the air.
+Scanning tunneling Microscope is a tool capable of imaging surfaces with atomic resolution in the air. The STM is based on concept of quantum tunneling effect.
+
+The microscope wokrs in two operating modes:
+- Constant height mode
+- Constant current mode
+  
 # Science and tech used 
 Text & plots here... 
 # State of the art 
