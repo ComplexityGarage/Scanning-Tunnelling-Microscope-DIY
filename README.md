@@ -13,7 +13,7 @@ Text & plots here...
 # State of the art
 
 <div style="border: 1px solid black; padding: 10px;">
-  ![STM Scan Head](IMG_0586.jpg)
+  ![STM Scan Head](IMG%200586.jpg)
 </div>
 
 # What next?
