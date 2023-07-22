@@ -10,8 +10,12 @@ The microscope wokrs in two operating modes:
   
 # Science and tech used 
 Text & plots here... 
-# State of the art 
-Text & plots here... 
+# State of the art
+
+<div style="border: 1px solid black; padding: 10px;">
+  ![STM Scan Head](IMG_0586.jpg)
+</div>
+
 # What next?
 The current version of microscope works in constant height mode. It could be developed by software modifications. Introducing a feedback loop which controls the voltage applied to the Z-axis electrode of the piezo scanner to maintain a constant tunneling current, allows it to operate in constant current mode. To provide better quality images, the noise could be reduced by building soundproof box.
 # Sources 
