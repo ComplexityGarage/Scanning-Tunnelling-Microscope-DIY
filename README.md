@@ -1,4 +1,4 @@
-# Tunneling ...  (Title of the project)
+# Scanning Tunneling Microscope
 # Authors 
 - Paweł Chmolewski
 # Description of the project 
