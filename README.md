@@ -12,6 +12,7 @@ The microscope wokrs in two operating modes:
 Text & plots here... 
 # State of the art
 
+The input of the op amp which is mounted on a STM scan head requires good isulation. It is only connected to the needle and the input node of the op amp is insulated by air wiring technique.
 
 | STM Scan Head |
 | --- |
