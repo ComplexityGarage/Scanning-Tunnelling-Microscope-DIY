@@ -10,7 +10,9 @@ This type of microscope works in two operating modes:
   
 # Science and tech used 
 
-
+| STM circuit overview |
+| --- |
+| ![STM circuit overview](STM configuration schematic.jpg) |
 
 # State of the art
 
