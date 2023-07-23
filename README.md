@@ -12,15 +12,17 @@ The microscope wokrs in two operating modes:
 Text & plots here... 
 # State of the art
 
-The input of the op amp which is mounted on a STM scan head requires good isulation. It is only connected to the needle and the input node of the op amp is insulated by air wiring technique.
 
 | STM Scan Head |
 | --- |
 | ![STM Scan Head](/IMG_0586.jpg) |
+| The input of the preamplifier which is mounted on a STM scan head requires good insulation. It is only connected to the needle and the input node of the op amp is insulated by air wiring technique. During the data collection, the STM scan head is covered with metal to provide EMI shielding. |
+
 
 | STM Vibration Isolation |
 | --- |
 | ![STM Vibration Isolation](/IMG_0594.jpg) |
+| The good vibration isolation is essential for STM. Smallest mechanical oscillations affect on tip-sample distance and may cause that the tip crash into the sample. |
 
 | Scanning Tunneling Microscope configuration |
 | --- |
