@@ -17,6 +17,10 @@ Text & plots here...
 | --- |
 | ![STM Scan Head](/IMG_0586.jpg) |
 
+| STM Vibration Isolation |
+| --- |
+| ![STM Vibration Isolation](/IMG_0594.jpg) |
+
 # What next?
 The current version of microscope works in constant height mode. It could be developed by software modifications. Introducing a feedback loop which controls the voltage applied to the Z-axis electrode of the piezo scanner to maintain a constant tunneling current, allows it to operate in constant current mode. To provide better quality images, the noise could be reduced by building soundproof box.
 # Sources 
