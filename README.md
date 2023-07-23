@@ -12,7 +12,7 @@ This type of microscope works in two operating modes:
 
 | STM circuit overview |
 | --- |
-| ![STM circuit overview](STM configuration schematic.jpg) |
+| ![STM circuit overview](STM_circuit_schematic.jpg) |
 
 # State of the art
 
