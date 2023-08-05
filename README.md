@@ -14,6 +14,10 @@ This type of microscope works in two operating modes:
 | --- |
 | ![STM circuit overview](STM_circuit_schematic.jpg) |
 
+The amplifiers used in the circuit are powered from symmetric power supply which has the input EMI filter.
+
+
+
 # State of the art
 
 
