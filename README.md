@@ -16,7 +16,11 @@ This type of microscope works in two operating modes:
 
 The amplifiers used in the circuit are powered from symmetric power supply which has the input EMI filter.
 
+| STM Piezo Driver |
+| --- |
+| ![STM circuit overview](STM_piezo_driver.jpg) |
 
+The Piezo driver is responsible for tip movement. It controls the movement of the piezo buzzer by generating signals Z+X, Z-X, Z+Y, Z-Y based on provided input signals X, Y, Z.
 
 # State of the art
 
