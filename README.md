@@ -20,13 +20,13 @@ The amplifiers used in the circuit are powered from symmetric power supply which
 | --- |
 | ![STM circuit overview](STM_piezo_driver.jpg) |
 
-The Piezo driver is responsible for tip movement. It controls the movement of the piezo buzzer by generating signals Z+X, Z-X, Z+Y, Z-Y based on provided input signals X, Y, Z. The STM Scan Head brass electrode plate is connected to ground, and is used to shield the STM tip from the scan electrodes.
+The piezo driver is responsible for tip movement. It controls the movement of the piezo buzzer by generating signals Z+X, Z-X, Z+Y, Z-Y based on provided input signals X, Y, Z. The STM Scan Head brass electrode plate is connected to ground, and is used to shield the STM tip from the scan electrodes.
 
 | STM Preamplifier |
 | --- |
 | ![STM circuit overview](STM_preamplifier.jpg) |
 
-The STM preamplifier is based on op-amp OPA124. This op-amp works nonlinear, unstable in case of high input currents.
+The STM preamplifier is based on op-amp OPA124. This op-amp works nonlinear, unstable in case of high input currents but what's more important it has low input bias current around 1 pA and low current noise. Another, probably more stable and worth of testing op-amp is OPA627.
 
 # State of the art
 
