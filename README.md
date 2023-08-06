@@ -20,7 +20,7 @@ The amplifiers used in the circuit are powered from symmetric power supply which
 | --- |
 | ![STM circuit overview](STM_piezo_driver.jpg) |
 
-The piezo driver is responsible for tip movement. It controls the movement of the piezo buzzer by generating signals Z+X, Z-X, Z+Y, Z-Y based on provided input signals X, Y, Z. The STM Scan Head brass electrode plate is connected to ground, and is used to shield the STM tip from the scan electrodes.
+The piezo driver is responsible for tip movement. It controls the movement of the piezo buzzer by generating signals Z+X, Z-X, Z+Y, Z-Y based on provided input signals X, Y, Z provieded by Analog Discovery. The STM Scan Head brass electrode plate is connected to ground, and is used to shield the STM tip from the scan electrodes.
 
 | STM Preamplifier |
 | --- |
