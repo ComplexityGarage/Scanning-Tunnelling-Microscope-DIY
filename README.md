@@ -2,7 +2,7 @@
 # Authors 
 - Paweł Chmolewski
 # Description of the project 
-Scanning tunneling microscope is a tool capable of imaging surfaces with atomic resolution in the air. The STM is based on concept of quantum tunneling effect.
+Scanning tunneling microscope is a tool capable of imaging conductive surfaces with atomic resolution in the air. The STM is based on concept of quantum tunneling effect.
 
 This type of microscope works in two operating modes:
 - Constant height mode
@@ -27,6 +27,8 @@ The piezo driver is responsible for tip movement. It controls the movement of th
 | ![STM circuit overview](STM_preamplifier.jpg) |
 
 The STM preamplifier is based on op-amp OPA124. This op-amp works nonlinear, unstable in case of high input currents but what's more important it has low input bias current around 1 pA and low current noise. Another, probably more stable and worth of testing op-amp is OPA627.
+
+The bias voltage is applied between tip and the sample. Since the tip potential is assumed to be 0, the negative potential is applied to the sample and it comes from the negative output of symmetric power supply, its value is regulated by the potentiometer. 
 
 # State of the art
 
