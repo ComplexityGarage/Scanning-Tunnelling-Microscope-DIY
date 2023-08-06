@@ -34,7 +34,7 @@ The STM preamplifier is based on op-amp OPA124. This op-amp works nonlinear, uns
 | STM Scan Head |
 | --- |
 | ![STM Scan Head](/IMG_0586.jpg) |
-| The input of the preamplifier which is mounted on a STM scan head requires good insulation. It is only connected to the needle and the input node of the op amp is insulated by air wiring technique. During the data collection, the STM scan head is covered with metal to provide EMI shielding. |
+| The input of the preamplifier which is mounted on a STM scan head requires good insulation. It is only connected to the needle and the input node of the op amp is insulated by air wiring technique. During the data collection, the STM scan head is covered with metal can to provide EMI shielding. |
 
 
 | STM Vibration Isolation |
