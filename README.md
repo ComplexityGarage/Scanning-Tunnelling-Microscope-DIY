@@ -51,7 +51,7 @@ The bias voltage is applied between tip and the sample. Since the tip potential 
 # What next?
 The current version of microscope works in constant height mode. It could be developed by software modifications. Introducing a feedback loop which controls the voltage applied to the Z-axis electrode of the piezo scanner to maintain a constant tunneling current, allows it to operate in constant current mode. To protect STM scanning tip from accidental crashing into the sample, coarse approach might be motorized and controllled by the software. To provide better quality images, the noise could be reduced by building soundproof box.
 # Sources
-- [Dan Berard] (https://dberard.com)
-- [Raspberry Pi] (https://www.raspberrypi.org/help/)
-- [Analog Discovery] (https://digilent.com/reference/software/waveforms/waveforms-3/start)
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github ) 
+- [Dan Berard](https://dberard.com)
+- [Raspberry Pi](https://www.raspberrypi.org/help/)
+- [Analog Discovery](https://digilent.com/reference/software/waveforms/waveforms-3/start)
+- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
