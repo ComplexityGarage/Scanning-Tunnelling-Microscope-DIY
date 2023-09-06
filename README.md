@@ -68,7 +68,7 @@ The scan was taken at constant height mode with a resolution of 256 x 256 pixels
 | The acquired image of Highly Oriented Pyrolytic Graphite. |
 
 # What next?
-The current version of microscope works in constant height mode. It could be developed by software modifications. The change of scan raster method may improve image quality. Introducing a feedback loop which controls the voltage applied to the Z-axis electrode of the piezo scanner to maintain a constant tunneling current, allows it to operate in constant current mode. To protect STM scanning tip from accidental crashing into the sample, coarse approach might be motorized and controllled by the software. To provide better quality images, the noise could be reduced by building soundproof box.
+The current version of microscope works in constant height mode. It could be developed by software modifications. The change of scan raster method may improve image quality, the other scan method are described in publication [[1]](#1). Introducing a feedback loop which controls the voltage applied to the Z-axis electrode of the piezo scanner to maintain a constant tunneling current, allows it to operate in constant current mode. To protect STM scanning tip from accidental crashing into the sample, coarse approach might be motorized and controllled by the software. To provide better quality images, the noise could be reduced by building soundproof box.
 # Sources
 - [Dan Berard](https://dberard.com)
 - [Raspberry Pi](https://www.raspberrypi.org/help/)
