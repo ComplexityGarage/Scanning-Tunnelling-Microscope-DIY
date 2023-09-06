@@ -73,5 +73,5 @@ The current version of microscope works in constant height mode. It could be dev
 - [Dan Berard](https://dberard.com)
 - [Raspberry Pi](https://www.raspberrypi.org/help/)
 - [Analog Discovery](https://digilent.com/reference/software/waveforms/waveforms-3/start)
-- <a id="1">[1]</a> Yik R. Teo, Yuen Yong, and Andrew J. Fleming, July 2018. A COMPARISON OF SCANNING METHODS AND THE VERTICAL CONTROL IMPLICATIONS FOR SCANNING PROBE MICROSCOPY. Asian Journal of Control, Vol. 20, No. 4, pp. 1352–1366, DOI: 10.1002/asjc.1422
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
+- <a id="1">[1]</a> Yik R. Teo, Yuen Yong, and Andrew J. Fleming, July 2018. A COMPARISON OF SCANNING METHODS AND THE VERTICAL CONTROL IMPLICATIONS FOR SCANNING PROBE MICROSCOPY. Asian Journal of Control, Vol. 20, No. 4, pp. 1352–1366, DOI: 10.1002/asjc.1422.
