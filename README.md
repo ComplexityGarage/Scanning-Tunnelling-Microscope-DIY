@@ -32,7 +32,7 @@ The STM preamplifier is based on op-amp OPA124. This op-amp works nonlinear, uns
 
 The bias voltage is applied between tip and the sample. Since the tip potential is assumed to be 0, the negative potential is applied to the sample and it comes from the negative output of symmetric power supply, its value is regulated by the potentiometer. 
 
-The latest modification has been done by mounting the stepper motor 28BYJ-48 with ULN2003A driver. The stepper motor is powered by 5 volt power supply.
+The latest modification has been done by mounting the stepper motor 28BYJ-48 with ULN2003A driver. The ULN2003A driver is connected to the Raspberry Pi 400 pins: GND, GPIO18, GPIO17, GPIO27, GPIO22. The stepper motor is powered by 5 volt power supply from the ULN2003A driver, which has a common GND with Raspberry Pi.
 
 ## Software
 
